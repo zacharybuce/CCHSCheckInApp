@@ -12,3 +12,6 @@ In the demo app, the user is directed to a page containing the information that 
 
 To view the app using Expo go to: https://expo.io/@zachbuce/cchsappdemo
 Use the Expo mobile app or view it in the browser
+
+Screenshots:
+![](assets/imgs/appstore1.png)
