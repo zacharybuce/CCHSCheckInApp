@@ -9,3 +9,6 @@ the Curbside Check-In form. The user is directed straight to the Curbside Check-
 them of the patient outside.
 
 In the demo app, the user is directed to a page containing the information that was just inputted. 
+
+To view the app using Expo go to: https://expo.io/@zachbuce/cchsappdemo
+Use the Expo mobile app or view it in the browser
