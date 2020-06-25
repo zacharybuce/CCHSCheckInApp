@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CCHSProject",
-    "slug": "CCHSProject",
+    "name": "Clay Humane Curbside Check-In",
+    "slug": "cchsapp",
     "platforms": [
       "ios",
       "android",
@@ -13,7 +13,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#4d9d45"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,7 +22,14 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+	  "bundleIdentifier": "com.clayhumane.cchsapp",
+      "buildNumber": "1.0.0"
+    },
+	"android": {
+      "package": "com.clayhumane.cchsapp",
+      "versionCode": 1
+    },
+    "description": "CCHS Curbside Check-In App"
   }
 }
