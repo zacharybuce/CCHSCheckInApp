@@ -14,4 +14,5 @@ To view the app using Expo go to: https://expo.io/@zachbuce/cchsappdemo
 Use the Expo mobile app or view it in the browser
 
 Screenshots:
-![](assets/imgs/appstore1.png)
+
+<img src:"assets/imgs/appstore1.png" width="250">
