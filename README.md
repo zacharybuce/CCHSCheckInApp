@@ -1,7 +1,7 @@
 # CCHSCheckInApp
 Curbside Check-In App for Clay County Humane Society.
 
-This is a demo version of the app.
+This is a demo version of the app made using React Native.
 
 This app is meant to take in information from the user and send it via email to the front desk. The user can either be a returning patient or a new patient. If the user is a new
 patient then they are asked to fill out a form asking for their personal information. They then fill out a form regarding their pet's information. From there, they are directed to 
