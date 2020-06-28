@@ -16,3 +16,6 @@ Use the Expo mobile app or view it in the browser
 Screenshots:
 
 <img src="assets/imgs/appstore1.png" width="250"><img src="assets/imgs/appstore2.png" width="250"><img src="assets/imgs/appstore3.png" width="250">
+
+ios App Store Link: https://apps.apple.com/us/app/id1520770396
+Google Play Store Link: https://play.google.com/store/apps/details?id=com.clayhumane.cchsapp
